@@ -10,7 +10,7 @@ It is using -
 * Clean Architecture
 * Retrofit
 
-Due to time constarints and some unavoidable circumstance I was not able to include
+Due to time constarints and some unavoidable circumstances I was not able to include
 
 * Android compose
 * Dagger
